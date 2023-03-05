@@ -1,0 +1,6 @@
+configVariable:
+  name: config
+  type: map
+  accepts:
+    - tags
+    - env
